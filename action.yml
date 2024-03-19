@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Podcast Generator Shuh ver.01"
 author: "Shukhrat Ismailov"
 description: "generates a feed for a podcast from YAML file"
 runs: 
